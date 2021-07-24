@@ -346,7 +346,7 @@ html {
 }
 
 body {
-    color: #8A94A7;
+    color: #f5d9f5;
     font-size: 1rem
 }
 
@@ -359,7 +359,7 @@ textarea {
 }
 
 a {
-    color: #8A94A7;
+    color: #b7bfce;
     text-decoration: underline
 }
 
@@ -576,7 +576,7 @@ blockquote p {
 }
 
 address {
-    color: #8A94A7;
+    color: #b6c5e0;
     border-width: 1px 0;
     border-style: solid;
     border-color: #242830;
@@ -710,7 +710,7 @@ label {
     text-decoration: none;
     text-transform: uppercase;
     background-color: #1D2026;
-    color: #0270D7 !important;
+    color: #227fd6 !important;
     border: none;
     height: auto;
     left: 8px;
@@ -1150,7 +1150,7 @@ label {
     border-style: solid;
     border-color: #242830;
     border-radius: 2px;
-    color: #8A94A7;
+    color: #9aa9c4;
     max-width: 100%;
     width: 100%
 }
